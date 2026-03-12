@@ -1,6 +1,6 @@
 # 🚀 Spring Boot REST API
 
-A production-ready RESTful API built with **Spring Boot** and **Java 21**, backed by a **PostgreSQL** database running in Docker. This project demonstrates clean backend architecture, database integration via Spring Data JPA, and a fully containerized development environment.
+A production-ready RESTful API built with **Spring Boot** and **Java 17**, backed by a **PostgreSQL** database running in Docker. This project demonstrates clean backend architecture, database integration via Spring Data JPA, and a fully containerized development environment.
 
 ---
 
